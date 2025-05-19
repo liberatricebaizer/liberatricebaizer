@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/liberatricebaizer/liberatricebaizer/blob/main/header.png" alt="Liberatrice Bayizere - Frontend Developer" />
-</div>
-
 # Hello, I'm Liberatrice 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://liberatricebaizer.vercel.app/)
@@ -18,7 +14,7 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 - 🔭 I'm currently working on **modern UI/UX projects**
 - 🌱 I'm currently learning **advanced React patterns and Next.js**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Next.js, and frontend development**
+- 💬 Ask me about **React, React Native, Next.js, and frontend development**
 - 📫 How to reach me: **liberatricebaizer@gmail.com**
 - ⚡ Fun fact: **I started coding in my final year of secondary school after being inspired by my brother**
 
@@ -31,6 +27,7 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -39,6 +36,10 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,13 +108,3 @@ I believe in inspiring more Burundian girls to code and pursue careers in techno
   <img src="https://komarev.com/ghpvc/?username=liberatricebaizer&color=06B6D4&style=flat-square" alt="Profile views" />
 </div>
 ```
-
-To complete your GitHub profile, you'll need to create a header image. Here's a simple design you can use:
-
-```jsx type="code"
-// Header image design (you can create this in Figma or any design tool)
-// Size: 1200 x 300px
-// Background: Gradient from dark blue to black
-// Text: "Liberatrice Bayizere" in large font
-// Subtitle: "Frontend Developer | React | Next.js | TailwindCSS"
-// Add some coding-related icons or elements
