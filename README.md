@@ -16,7 +16,7 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, React Native, TypeScript, Next.js, and frontend development**
 - 📫 How to reach me: **liberatricebaizer@gmail.com**
-- ⚡ Fun fact: **I started coding in my final year of secondary school after being inspired by my brother**
+- ⚡ Fun fact: **I started coding in my final year of secondary school after being inspired by other developper**
 
 ## 🛠️ Tech Stack
 
