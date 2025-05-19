@@ -63,17 +63,6 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatricebaizer&layout=compact&theme=tokyonight" alt="Liberatrice's Top Languages" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![TBR Agency](https://github-readme-stats.vercel.app/api/pin/?username=liberatricebaizer&repo=Tbr-agency&theme=tokyonight)](https://github.com/liberatricebaizer/Tbr-agency)
-[![Cineverse App](https://github-readme-stats.vercel.app/api/pin/?username=liberatricebaizer&repo=cine-app&theme=tokyonight)](https://github.com/liberatricebaizer/cine-app)
-[![Savor-street App](https://github-readme-stats.vercel.app/api/pin/?username=liberatricebaizer&repo=resto&theme=tokyonight)](https://github.com/liberatricebaizer/resto)
-[![Contact App](https://github-readme-stats.vercel.app/api/pin/?username=liberatricebaizer&repo=Contact-app&theme=tokyonight)](https://github.com/liberatricebaizer/Contact-app)
-
-</div>
-
 ## 💪 Motivation
 
 > "There is nothing you can't have or achieve in life if you're willing to work for it."
