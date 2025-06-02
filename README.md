@@ -52,16 +52,7 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liberatricebaizer&show_icons=true&theme=tokyonight" alt="Liberatrice's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liberatricebaizer&theme=tokyonight" alt="Liberatrice's GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatricebaizer&layout=compact&theme=tokyonight" alt="Liberatrice's Top Languages" />
-</div>
 
 ## 💪 Motivation
 
