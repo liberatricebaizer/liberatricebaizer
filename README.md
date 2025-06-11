@@ -60,11 +60,7 @@ I'm a frontend web developer based in Bujumbura, Burundi. My main focus is on bu
 
 I believe in inspiring more Burundian girls to code and pursue careers in technology. My journey in web development started in my final year of secondary school, and I'm passionate about helping others discover the joy of coding.
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img alt="Liberatrice's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=liberatricebaizer&theme=tokyo-night" />
-</div>
 
 ## 🤝 Connect With Me
 
