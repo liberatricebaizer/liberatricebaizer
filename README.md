@@ -71,7 +71,7 @@ I believe in inspiring more Burundian girls to code and pursue careers in techno
   <a href="https://twitter.com/liberatrice?t=WaaWtB7PZa21DVAe07Yn7Q&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/liberatrice-baizer-4681a7249">
+  <a href="https://www.linkedin.com/in/liberatrice-bayizere-537905402?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/liberatricebaizer">
